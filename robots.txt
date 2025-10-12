@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.infonexa.com/sitemap.xml
+
+# Disallow crawling of certain directories (if any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow all search engines to crawl the website
+# This helps with SEO and indexing
+
+# Crawl-delay (optional - uncomment if needed)
+# Crawl-delay: 1
